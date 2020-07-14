@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 - :mortar_board: I’m graduating in technology
-- :books: I’m currently studying about JavaScript, NodeJs, ReactJs and Python
+- :books: I’m currently studying about JavaScript, NodeJs, ReactJs
 - 🤔 I’m looking for a job with software development
 - 📫 How to reach me: https://www.linkedin.com/in/isaac-dias/
 
