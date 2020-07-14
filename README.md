@@ -15,3 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Isaac Dias 
+## Hello :wave: welcome to my profile
+
+
+- :mortar_board: I’m graduating in technology
+- :books: I’m currently studying about JavaScript, NodeJs, ReactJs and Python
+- 🤔 I’m looking for a job with software development
+- 📫 How to reach me: https://www.linkedin.com/in/isaac-dias/
+
+
