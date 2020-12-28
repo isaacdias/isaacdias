@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 ## Hello :wave: welcome to my profile
 
 
-- :mortar_board: I’m graduating in technology
-- :books: I’m currently studying about JavaScript, NodeJs, ReactJs
-- 🤔 I’m looking for a job with software development
+- :mortar_board: I'm graduating in technology
+- :books: I'm currently studying about C#, .NET Core, JavaScript, NodeJs, ReactJs
+- 🤔 I'm looking for a job with software development
 - :video_game: Video game lover, :coffee: coffee never hurts and :beer: beer when I can
 - 📫 How to reach me: https://www.linkedin.com/in/isaac-dias/
 
