@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 <img align="left" src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white' alt='Angular' />
 Oi%20Isaac
 <img align="left" src='https://img.shields.io/badge/-Sequelize-lightgrey?style=for-the-badge' alt='sequelize' />
+
+<div display="block">
+	<p align="center">
+ <img  width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=isaacdias&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+</p>
+</div>
 -->
 
 
@@ -49,11 +55,7 @@ Oi%20Isaac
 
 ### My codes
 <p>I'm still building my portfolio, but i have some projects and you can find some of them <a href="https://github.com/isaacdias?tab=repositories">HERE!</a> </p>
-<div display="block">
-	<p align="center">
- <img  width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=isaacdias&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
-</p>
-</div>
+
 
 
 ---
