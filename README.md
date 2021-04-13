@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 <img align="left" src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white' alt='Angular' />
 Oi%20Isaac
+<img align="left" src='https://img.shields.io/badge/-Sequelize-lightgrey?style=for-the-badge' alt='sequelize' />
 -->
 
 
@@ -40,6 +41,7 @@ Oi%20Isaac
 <img align="left" src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' alt='node' />
 <img align="left" src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge' alt='express' />
 <img align="left" src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' alt='MySQL' />
+<img align="left" src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white' alt='Angular' />
 </div>
 <br>
 
