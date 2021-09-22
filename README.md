@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 Oi%20Isaac
 <img align="left" src='https://img.shields.io/badge/-Sequelize-lightgrey?style=for-the-badge' alt='sequelize' />
 <img align="left" src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white' alt='Angular' />
+<img align="left" src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' alt='javascript' />
+<img align="left" src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='html' />
+<img align="left" src='https://img.shields.io/badge/-CSS-9cf?style=for-the-badge&logo' alt='css' />
 
 <div display="block">
 	<p align="center">
@@ -40,13 +43,10 @@ Oi%20Isaac
 ---
 
 
-### What technologies am I currently studying?
+### What technologies am I currently working?
 <div display="block">
  
 <img align="left" src='https://img.shields.io/badge/-.NET%20Framework-blue?style=for-the-badge&logo=blue' alt='.NET' />
-<img align="left" src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' alt='javascript' />
-<img align="left" src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='html' />
-<img align="left" src='https://img.shields.io/badge/-CSS-9cf?style=for-the-badge&logo' alt='css' />
 <img align="left" src='https://img.shields.io/badge/-SQL%20Server-darkgreen?style=for-the-badge&logo' alt='SQLServer' />
 </div>
 <br>
